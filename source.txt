@@ -1,0 +1,1 @@
+Link (Swiss Stats Explorer): https://stats.swiss/vis?lc=en&df[ds]=disseminate&df[id]=DF_MFZ_0_GENERAL&df[ag]=CH1.MFZ_IVS&df[vs]=1.0.0&dq=_T._T.100%2B200%2B300%2B400%2B500%2B600%2B700%2B_T%2B000._T.PC%2BPH%2BDC%2BDH%2BHP%2BHD%2BEL%2BFC%2BGA%2B_O%2BNM%2B_T.A&lom=LASTNPERIODS&lo=6&to[TIME_PERIOD]=false
